@@ -1,7 +1,7 @@
 import sys
 
 
-clients = ['pablo','ricardo']
+clients = ['pablo','ricardo', 'felipe']
 
 
 def create_client(client_name):
